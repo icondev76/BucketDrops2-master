@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bucket Drops</string>
+    <string name="btn_drop">Add a Drop</string>
+</resources>
